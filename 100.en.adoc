@@ -1,3 +1,8 @@
+// add cover image to img directory and update filename below
+ifdef::backend-html5[]
+image::img/web/photo.jpg[]
+endif::backend-html5[]
+
 For more than 20 years, GBIF—the Global Biodiversity Information Facility—has provided anyone, anywhere, open access to data about all types of life on Earth. GBIF has earned the reputation as the “most comprehensive, openly available… access point to known digital species occurrence data.” The interconnected challenges of biodiversity loss and climate change have increased the requirements and urgency for data to inform research, policy and decisions from local to global scales.
 
 .GBIF’s vision
