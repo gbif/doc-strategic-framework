@@ -1,27 +1,14 @@
 For more than 20 years, GBIF—the Global Biodiversity Information Facility—has provided anyone, anywhere, open access to data about all types of life on Earth. GBIF has earned the reputation as the “most comprehensive, openly available… access point to known digital species occurrence data.” The interconnected challenges of biodiversity loss and climate change have increased the requirements and urgency for data to inform research, policy and decisions from local to global scales.
 
-[[vision]]
-== GBIF’s vision
- 
-A world in which the best possible biodiversity data underpins research, policy and decisions.
-
 .GBIF’s vision
 [sidebar]
 A world in which the best possible biodiversity data underpins research, policy and decisions.
 
-
----
-
 GBIF is expanding to include more and varied types of data and improved informatics services in order to supply the biodiversity information that global research and policy require. Our community of people is also growing with new nodes, data publishers and data users. GBIF’s maturity has earned trust from the global community, and with trust comes responsibility and the expectation of leadership. The urgent need for solutions to multiple global crises compels GBIF to build a truly global network of people capable of facilitating the delivery of all potentially available biodiversity data through a proven infrastructure.
 
----
-
-[[mission]]
-== GBIF’s mission
-
+.GBIF’s mission
+[sidebar]
 To mobilize the data, skills and technologies needed to make comprehensive biodiversity information freely available for science and decisions addressing biodiversity loss and sustainable development
-
----
 
 [[values]]
 == GBIF’s values
@@ -56,7 +43,7 @@ The strategic framework aims to deliver enhanced value and coherence through con
 
 === Priority Area 1: Building the evidence to advance scientific research and understanding of global biodiversity
 
-==== Objectives
+*Objectives*
 
 * Reduce knowledge gaps by helping the network to set targets for consolidating data coverage across thematic, taxonomic, phylogenetic, spatial and temporal dimensions.
 * Enable, expand and diversify the uptake and application of GBIF-mediated data.
@@ -66,7 +53,7 @@ The strategic framework aims to deliver enhanced value and coherence through con
 
 === Priority Area 2: Supporting policy responses and knowledge transfer that address urgent societal challenges around planetary change
 
-==== Objectives
+*Objectives*
 
 * Develop high-impact programmes that frame themes related to the biodiversity data needs for key societal challenges, including biodiversity loss, climate change, food security and human health.
 * Strengthen capacity for use of data to contribute to local, national, regional and global biodiversity-related goals, joining with partners to support application of data in policy-relevant information tools and products.
@@ -76,7 +63,7 @@ The strategic framework aims to deliver enhanced value and coherence through con
 
 === Priority Area 3: Enabling the network to meet future needs and challenges
 
-==== Objectives
+*Objectives*
 
 * Ensure that GBIF nodes provide a strong and stable foundation for data mobilization and use through the network.
 * Increase national participation while strengthening engagement of existing voting participants, including in GBIF governance and decision-making.
@@ -88,7 +75,7 @@ participants.
 
 === Priority Area 4: Driving innovation to advance biodiversity-related knowledge
 
-==== Objectives
+*Objectives*
 
 * Sustain and improve a robust, environmentally responsible technical infrastructure capable of providing the most accurate, up-to-date, interoperable and reusable data available.
 * Evolve and adapt data standards and models to enable routine generation of increasingly complex, integrated and comprehensive biodiversity data.
