@@ -4,12 +4,6 @@
 
 GBIF Strategic Framework 2023-2027 (2021) GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-0kkq-0t82
 
-=== Licence
-
-`I SUGGEST THAT WE DISPENSE WITH A LICENSE ON THIS DOCUMENT`
-
-The document _GBIF Strategic Framework 2023-2027_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
-
 === Persistent URI
 
 https://doi.org/10.35035/doc-0kkq-0t82
@@ -17,7 +11,3 @@ https://doi.org/10.35035/doc-0kkq-0t82
 === Document control
 
 Approved by GBIF Governing Board, October 2021
-
-=== Cover image
-
-Christmas Island red crab (_Gecarcoidea natalis_). Photo 2014 Dion Maple via https://www.gbif.org/occurrence/2619910827[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
